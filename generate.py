@@ -45,7 +45,8 @@ Ip Local  : {socket.gethostbyname(socket.gethostname())}
 
 [![LICENSE](https://img.shields.io/github/license/{nameid}/{repoid}.svg?style=flat-square&label=LICENSE)](https://github.com/{nameid}/{repoid}/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/{nameid}/{repoid}.svg?style=flat-square&label=Stars&logo=github)](https://github.com/{nameid}/{repoid}/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/{nameid}/{repoid}.svg?style=flat-square&label=Forks&logo=github)](https://github.com/{nameid}/{repoid}/forkingers)
+[![GitHub Forks](https://img.shields.io/github/forks/{nameid}/{repoid}.svg?style=flat-square&label=Forks&logo=github)](https://github.com/{nameid}/{repoid}/network/members)
+
 [![build_firmware](https://github.com/{nameid}/{repoid}/actions/workflows/generate_readme.yml/badge.svg)](https://github.com/{nameid}/{repoid}/actions/workflows/generate_readme.yml) [![{yamlid}](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml/badge.svg)](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml)
 
 #### Download This code Here:
