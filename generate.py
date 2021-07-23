@@ -1,8 +1,8 @@
 import requests, json, random, time, socket, platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
-nameid = "Anthoozz66"
-repoid = "probable-spoon"
+nameid = "jekhuz"
+repoid = "jekhuz"
 yamlid = "build_and_release"
 f = open("./README.md", "w")
 pokemon_id = random.randint(1, 151)
