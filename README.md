@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by a wild <b>Hypno</b></h3>
+<h3 align="center">You have been greeted by a wild <b>Psyduck</b></h3>
 
 <a href="https://github.com/jekhuz"><h3 align="center"><b>jekhuz</b></h3></a>
 
@@ -17,7 +17,7 @@
 
 ```bash
 	
-2024-03-29 - 18:31:21 UTC
+2024-03-29 - 18:47:21 UTC
 
 ```
 
@@ -25,11 +25,11 @@
 
 ```bash
 
-Host Name : fv-az735-94
+Host Name : fv-az1148-858
 
 platform  : Linux-6.5.0-1016-azure-x86_64-with-glibc2.35
 
-Ip Local  : 10.1.0.128
+Ip Local  : 10.1.0.146
 
 ```
 
