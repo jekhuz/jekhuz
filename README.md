@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by a wild <b>Eevee</b></h3>
+<h3 align="center">You have been greeted by a wild <b>Tentacool</b></h3>
 
 <a href="https://github.com/jekhuz"><h3 align="center"><b>jekhuz</b></h3></a>
 
@@ -17,7 +17,7 @@
 
 ```bash
 	
-2025-08-08 - 21:22:24 UTC
+2025-08-08 - 21:48:14 UTC
 
 ```
 
@@ -25,7 +25,7 @@
 
 ```bash
 
-Host Name : pkrvmjbmru5nbw0
+Host Name : pkrvmsl9tci6h6u
 
 platform  : Linux-6.11.0-1018-azure-x86_64-with-glibc2.39
 
